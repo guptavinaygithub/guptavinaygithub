@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying Computer Science Engineering(AIML)
 
-- 🌱 I’m currently learning **C++ with DSA**
+- 🌱 I’m currently learning **java with DSA**
 
 - 📫 How to reach me **vinaygupta6595@gmail.com**
 
